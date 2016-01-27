@@ -1,5 +1,5 @@
 {
-  "name": "caseify",
+  "name": "@lennym/caseify",
   "version": "0.1.2",
   "description": "Browserify transform to ensure all dependencies exist in a case-sensitive environment",
   "main": "index.js",
@@ -20,9 +20,6 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/justinjmoses/casify/issues"
-  },
-  "peerDependencies": {
-    "browserify": ">= 2.3.0 < 9"
   },
   "homepage": "https://github.com/justinjmoses/casify",
   "dependencies": {
